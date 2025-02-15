@@ -1,6 +1,7 @@
 .idea
 .vscode
 .DS_Store
+foo.txt
 /*.sqlite3
 another_db.sqlite3
 db.sqlite3
